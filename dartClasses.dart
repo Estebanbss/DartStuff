@@ -1,6 +1,5 @@
 void main() {
   final wolverine = new Hero(name: "Logan", power: "Regeneration");
-
   print(wolverine);
 }
 
